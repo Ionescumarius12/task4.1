@@ -1,0 +1,11 @@
+cargo run --release -- mat.in mat.out.in`
+>> C:\Users\Ionescu\Desktop\task4\task4>
+   Compiling task4 v0.1.0 (C:\Users\Ionescu\Desktop\task4\task4)
+    Finished `release` profile [optimized] target(s) in 0.50s        
+     Running `target\release\task4.exe mat.in mat.out`
+PS C:\Users\Ionescu\Desktop\task4\task4> # Run the non-cached implementation
+>> cargo run --release -- mat.in mat.out
+>>
+    Finished `release` profile [optimized] target(s) in 0.01s
+     Running `target\release\task4.exe mat.in mat.out`
+PS C:\Users\Ionescu\Desktop\task4\task4> 
